@@ -114,7 +114,7 @@
 │ SUBSYSTEM DOMAIN          │ RUNTIMES, FRAMEWORKS & TOOLING MATRIX                      │
 ├───────────────────────────┼────────────────────────────────────────────────────────────┤
 │ Systems & Core Languages  │ Rust, C++, Python, Bash / Shell, SQL, JavaScript           │
-│ Infrastructure & DevOps   │ Linux (Arch / Debian), Docker, CI/CD, Cron, Systemd, Nginx │
+│ Infrastructure & DevOps   │ Linux / Arch / Debian, Docker, CI/CD, Cron, Systemd, Nginx │
 │ Machine Learning & Vision │ PyTorch, Scikit-Learn, OpenCV, Optimization & Prep         │
 │ Data Persistence & APIs   │ PostgreSQL, Redis In-Memory Cache, SQLite, RESTful APIs    │
 │ High-Throughput Networks  │ Anti-Detection Proxy Meshes, WebSockets, Async Daemons     │
