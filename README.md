@@ -43,7 +43,7 @@
 ╭─── [ HOST PROFILE :: /etc/profile.d/thien.sys ] ──────────────────────────────────────╮
 │                                                                                       │
 │       (\_/)      USER       : Huynh Khanh Thien (thien-z3d3r)                         │
-│      ( •_•)      TRACK      : B.Sc. Computer Science @ UIT (VNU-HCM) x BCU (2025–2029)│
+│      ( •_•)      TRACK      : B.Sc. Computer Science @ UIT (VNU-HCM) x BCU (2026–2029)│
 │     / > 🌸       LOCATION   : Ho Chi Minh City, Vietnam [10.8231° N, 106.6297° E]     │
 │                  KERNEL     : Linux 6.x-rt (Arch / Debian) • POSIX • Async Daemons    │
 │                  CORE_STACK : C++ • Rust • Python • Docker • PyTorch • PostgreSQL     │
@@ -224,6 +224,3 @@
 └───────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-  <sub>🌸 Crafted with monospace precision for <b>thien-z3d3r</b> // Node: tokyo-cyber-01 // 2025–2029 🌸</sub>
-</div>
