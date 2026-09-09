@@ -137,4 +137,9 @@ STATUS : 200 OK // READY FOR LOW-LEVEL SYSTEMS & CONCURRENCY DISPATCH
 HOST   : UIT (VNU-HCM) x BCU • HO CHI MINH CITY, VIETNAM [10.8231° N, 106.6297° E]
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="thien-z3d3r's 3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
 </div>
