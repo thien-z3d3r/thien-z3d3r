@@ -124,10 +124,10 @@
   <table border="0" style="border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td style="border: none; background: transparent;" align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=thien-z3d3r&show_icons=true&title_color=ff79c6&icon_color=ffb7c5&text_color=f8f8f2&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="Thien's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=thien-z3d3r&show_icons=true&title_color=ff79c6&icon_color=ffb7c5&text_color=f8f8f2&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Thien's GitHub Stats" />
       </td>
       <td style="border: none; background: transparent;" align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=thien-z3d3r&theme=transparent&hide_border=true&stroke=ff79c6&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ffb7c5&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=f8f8f2" alt="Thien's Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=thien-z3d3r&theme=transparent&hide_border=true&stroke=ff79c6&background=00000000&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ffb7c5&currStreakLabel=ff79c6&sideLabels=f8f8f2&dates=f8f8f2&timezone=Asia/Ho_Chi_Minh" alt="Thien's Streak Stats" />
       </td>
     </tr>
   </table>
