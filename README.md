@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/thien-z3d3r"><img src="https://img.shields.io/badge/IDENTITY-thien--z3d3r-16161e?style=for-the-badge&logo=github&logoColor=ff79c6&labelColor=16161e" alt="Identity" /></a>
-  <a href="https://www.linkedin.com/in/huynh-thien-a864b5429/"><img src="https://img.shields.io/badge/LINKEDIN-Huynh_Khanh_Thien-16161e?style=for-the-badge&logo=linkedin&logoColor=ffb7c5&labelColor=16161e" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/huynh-khanh-thien-a864b5429"><img src="https://img.shields.io/badge/LINKEDIN-Huynh_Khanh_Thien-16161e?style=for-the-badge&logo=linkedin&logoColor=ffb7c5&labelColor=16161e" alt="LinkedIn" /></a>
   <a href="mailto:thienhuynh.workcontact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DISPATCH-16161e?style=for-the-badge&logo=gmail&logoColor=ff79c6&labelColor=16161e" alt="Email" /></a>
   <img src="https://img.shields.io/badge/PIPELINE_SLA-99.8%25_UPTIME-16161e?style=for-the-badge&logo=prometheus&logoColor=ffb7c5&labelColor=16161e" alt="Uptime SLA" />
 </p>
@@ -151,7 +151,7 @@
 
 <p>
   <a href="https://github.com/thien-z3d3r"><img src="https://img.shields.io/badge/GITHUB-thien--z3d3r-16161e?style=for-the-badge&logo=github&logoColor=ff79c6&labelColor=16161e" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/huynh-thien-a864b5429/"><img src="https://img.shields.io/badge/LINKEDIN-Huynh_Khanh_Thien-16161e?style=for-the-badge&logo=linkedin&logoColor=ffb7c5&labelColor=16161e" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/huynh-khanh-thien-a864b5429"><img src="https://img.shields.io/badge/LINKEDIN-Huynh_Khanh_Thien-16161e?style=for-the-badge&logo=linkedin&logoColor=ffb7c5&labelColor=16161e" alt="LinkedIn" /></a>
   <a href="mailto:thienhuynh.workcontact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DISPATCH-16161e?style=for-the-badge&logo=gmail&logoColor=ff79c6&labelColor=16161e" alt="Email" /></a>
 </p>
 
